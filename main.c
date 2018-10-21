@@ -23,7 +23,7 @@ int main(int argc, char * argv[]){
     //potentially avoid CPU caching
     target++;
 
-  }
+    } 
   return 0;
 
 }
